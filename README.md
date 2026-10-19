@@ -40,7 +40,7 @@ Care staff (CNAs) use their phone to photograph a resident's meal tray before an
 
 5. **AI health review.** On demand, Gemini reviews the 30-day nutrition summary against the resident's profile and flags conditions worth a doctor's check (Osteoporosis, Sarcopenia, Anemia, Type 2 Diabetes, Cardiovascular Disease, etc.), recommends next steps, suggests foods to correct deficiencies, and writes a shift-handoff summary.
 
-6. **Meal reminders.** Local notifications fire if a meal hasn't been logged after each meal window (10:40 am breakfast, 2:00 pm lunch, 8:00 pm dinner).
+6. **Meal reminders.** Local notifications fire if a meal hasn't been logged after each meal window (10:00 am breakfast, 2:00 pm lunch, 8:00 pm dinner).
 
 ---
 
